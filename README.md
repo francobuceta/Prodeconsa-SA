@@ -27,10 +27,12 @@ ofrecidos, quien es la empresa, y una seccion para poder contactarse.
 
 ## Autores ✒️
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/francoleon08/))
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Franco Buceta** - *Desarrollador*
+* **Franco León** - *Desarrollador* - [francoleon](https://github.com/francoleon08/))
+* **Christopher Jesús Valdivia** - *Diseñador UX/UI*
+* **Agustina La Rosa** - *Diseñadora UX/UI*
 
 ## Expresiones de Gratitud 🎁
 
-![Aquí la descripción de la imagen por si no carga]
-
+Estoy totalmente agradecido a mis excelentes compañeros en este proyecto, con quienes formamos un gran grupo de trabajo y tuvimos una maravillosa
+comunicación; y también a la empresa A&M Prodeconsa y Coderhouse por darme la oportunidad y su confianza.
