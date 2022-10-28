@@ -35,4 +35,4 @@ ofrecidos, quien es la empresa, y una seccion para poder contactarse.
 ## Expresiones de Gratitud 🎁
 
 Estoy totalmente agradecido a mis excelentes compañeros en este proyecto, con quienes formamos un gran grupo de trabajo y tuvimos una maravillosa
-comunicación; y también a la empresa A&M Prodeconsa y Coderhouse por darme la oportunidad y su confianza.
+comunicación; y también a la empresa A&M Prodeconsa y Coderhouse por darme la oportunidad y su confianza :raised_hands:
