@@ -25,4 +25,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 ## Expresiones de Gratitud 🎁
 
 ![Aquí la descripción de la imagen por si no carga]
-(https://raw.githubusercontent.com/francobuceta/Prodeconsa-SA/master/assets/logo.png)
+[![HOME-DESKTOP.jpg](https://i.postimg.cc/bYmgvxXV/HOME-DESKTOP.jpg)](https://postimg.cc/vD6fq6Z5)
