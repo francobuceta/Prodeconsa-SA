@@ -28,7 +28,7 @@ ofrecidos, quien es la empresa, y una seccion para poder contactarse.
 ## Autores ✒️
 
 * **Franco Buceta** - *Desarrollador*
-* **Franco León** - *Desarrollador* - [francoleon](https://github.com/francoleon08/))
+* **Franco León** - *Desarrollador* - [francoleon](https://github.com/francoleon08/)
 * **Christopher Jesús Valdivia** - *Diseñador UX/UI*
 * **Agustina La Rosa** - *Diseñadora UX/UI*
 
