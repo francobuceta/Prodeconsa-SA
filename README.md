@@ -19,17 +19,15 @@ ofrecidos, quien es la empresa, y una seccion para poder contactarse.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* HTML5
+* CSS3
+* SASS
+* BOOTSTRAP
+* JAVASCRIPT
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/francoleon08/))
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 ## Expresiones de Gratitud 🎁
