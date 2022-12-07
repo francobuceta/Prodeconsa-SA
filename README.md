@@ -10,6 +10,7 @@ Deploy: https://amprodeconsa.com/index.html
 
 La finalidad de este sitio web es la de comunicar y ofrecer lo que la empresa vende. El sitio consta de 9 secciones donde se pueden ver los servicios
 ofrecidos, quien es la empresa, y una seccion para poder contactarse.
+
 Las imágenes aquí presentadas pertenecen al diseño en Figma hecho por los diseñadores.
 
 [![MARMOL-CUARZO-Y-GRANITO-DESKTOP.png](https://i.postimg.cc/FHH7HS4p/MARMOL-CUARZO-Y-GRANITO-DESKTOP.png)](https://postimg.cc/Whx29htq)
