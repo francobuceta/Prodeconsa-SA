@@ -4,10 +4,13 @@ Este proyecto es un sitio web desarrollado para la empresa A&M Prodeconsa S.A. S
 eligieron a un grupo de alumnos destacados para llevar a cabo este trabajo. Para la realización de este proyecto, trabajé en conjunto con 
 otro desarrollador y dos diseñadores UX/UI.
 
+Deploy: https://amprodeconsa.com/index.html
+
 [![HOME-DESKTOP.jpg](https://i.postimg.cc/bYmgvxXV/HOME-DESKTOP.jpg)](https://postimg.cc/vD6fq6Z5)
 
 La finalidad de este sitio web es la de comunicar y ofrecer lo que la empresa vende. El sitio consta de 9 secciones donde se pueden ver los servicios
 ofrecidos, quien es la empresa, y una seccion para poder contactarse.
+Las imágenes aquí presentadas pertenecen al diseño en Figma hecho por los diseñadores.
 
 [![MARMOL-CUARZO-Y-GRANITO-DESKTOP.png](https://i.postimg.cc/FHH7HS4p/MARMOL-CUARZO-Y-GRANITO-DESKTOP.png)](https://postimg.cc/Whx29htq)
 
